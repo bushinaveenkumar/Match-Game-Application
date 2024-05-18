@@ -1,4 +1,7 @@
-In this project, let's build a **Match Game** by applying the concepts we have learned till now.
+In this project, I have build a **Match Game** Application by using React.js
+
+How to play this game:
+  Intially a image will appear in the top section, macth that image with the images in the bottom section (change the tabs to get respective images if required), if image you selected is matched with the top section image then your score will increase by 1 and other random image will be shown in top section and the process is same, if you select a wrong image game will over and score card will be displayed.
 
 ### Refer to the video below:
 
