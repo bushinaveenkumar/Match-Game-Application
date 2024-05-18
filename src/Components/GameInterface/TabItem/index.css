@@ -1,0 +1,19 @@
+.activeTab {
+  padding: 15px;
+  border: none;
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+  font-size: 25px;
+  background-color: transparent;
+  margin-right: 10px;
+}
+
+.tab_button {
+  padding: 15px;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  font-size: 25px;
+  background-color: transparent;
+  margin-right: 10px;
+}

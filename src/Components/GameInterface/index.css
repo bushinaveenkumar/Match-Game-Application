@@ -1,0 +1,33 @@
+.gi-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.matchImgCont {
+  margin-top: 50px;
+}
+.matchImg {
+  width: 600px;
+  height: 360px;
+}
+
+.tabsCont {
+  display: flex;
+}
+
+.thumbnailscont {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 55%;
+  padding: 0px;
+}
+
+.thumbnailImg {
+  width: 125px;
+  height: 90px;
+  margin-right: 16px;
+  margin-bottom: 10px;
+}
